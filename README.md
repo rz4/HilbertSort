@@ -6,10 +6,10 @@ Author: Rafael Zamora-Resendiz
 This project contains a Python implementation of sorting of points in Euclidean
 space using Hilbert space-filling curves. Space filling curves are 1-dimensional
 traversals of n-dimensional space where each point in a discrete space is visited
-once. These family of curves have been heavily researched in the past of there
+once. These family of curves have been heavily researched in the past for their
 locality preserving properties and are especially useful for dimensionality reduction.
 
-Here, we explore Hilbert's famous curve to establish an ordering to a set of points
+Here, we explore Hilbert's famous curve to impose an ordering on a set of points
 in 3D space. The sorting of points along the traversal of the space filling curve allows
 for efficient point cloud reduction using sequence-based averaging while still
 maintaining the global structure of the cloud.
