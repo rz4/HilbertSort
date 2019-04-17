@@ -15,7 +15,7 @@ for efficient point cloud reduction using sequence-based averaging while still
 maintaining the global structure of the cloud.
 
 For more information about HilbertSort for point cloud reduction, please refer to
-the project's Jupyter [notebook](notebooks/research.ipynb)
+the project's Jupyter [notebook](notebooks/research_doc.ipynb)
 
 ## Importing Algorithm
 
